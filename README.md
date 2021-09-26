@@ -2,7 +2,7 @@
 
 Desarrollo de código para la realización de la evidencia final de Computación en Java, mediante el transcurso de la materia se verán agregados avances al código.
 
-## Authors
+## CRÉDITOS
 
 - [@Anné Páez](https://www.github.com/Belindanne)
 
