@@ -1,2 +1,3 @@
-# EVIDENCIA-1-COMPUTACION-EN-JAVA
-Actualización de código con respecto a los desarrollos vistos en los avancces de evidencia
+# EVIDENCIA-FINAL-COMPUTACIÓN-EN-JAVA
+Desarrollo de código de solución en relación a caso planteado en los requerimienntos de la evidencia final.
+# 
