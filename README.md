@@ -8,4 +8,3 @@ Proyecto creado por @Belindanne en 12/diciembre/2021. UNIVERSIDAD TECMILENIO
 # IMAGENES DEL PROYECTO
 ![diagrama de flujo evidencia](https://user-images.githubusercontent.com/91292743/144768901-cc3d9733-7270-49b4-9d31-855f8cdd02e9.png)
 
-![EVIDENCIA](https://user-images.githubusercontent.com/91292743/144769058-7e8ef7ff-ebfd-49df-b5fc-db98352b1ae7.png)
